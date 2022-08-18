@@ -143,4 +143,11 @@ body{
     left: 300px;
     top: 400px;
 }
-
+.read-2{
+    font-size: 2rem;
+    width: 100px;
+    height: 70px;
+    position: absolute;
+    top: 500px;
+    left: 500px;
+}
